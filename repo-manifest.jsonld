@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/stephenmcd/mezzanine/commit/85dfd412445ebdd851078b4af4a8ed21b3c55e02",
       "git:hexsha": "85dfd412445ebdd851078b4af4a8ed21b3c55e02",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T21:54:04.745474+00:00"
     },
     {
       "@id": "https://repolex.ai/r/stephenmcd/mezzanine/commit/52951d8b45e73db3cf94eae87ca22d29ef63d8d5",
